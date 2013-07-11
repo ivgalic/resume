@@ -144,6 +144,10 @@ In my spare time, I cook a lot and I'm trying to get to know South-East Asia the
 
 I love simplicity and elegance, happy customers, great products and water - ocean, sea, rivers, lakes, rain... I hate mediocrity, all things ugly and cold weather :)
 
+## Education
+
+I hold a master's degree in Computer Science, from the University of Zagreb, Croatia.
+
 
 ## Why you should hire me
 
@@ -167,8 +171,11 @@ You might not want to hire me because:
 ## Contact and more info
 
 My [LinkedIn profile](http://www.linkedin.com/profile/view?id=10153036&trk=tab_pro). 
+
 [Twitter account](https://twitter.com/ivangalic)
+
 Email: ivan (dot) galic (at) google's mail. (Sorry about this, but spam is just so horrible).
+
 You can also reach me at +65 9793 7639
 
 Looking forward to hearing from you!
