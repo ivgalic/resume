@@ -10,6 +10,7 @@ Role: Senior iOS developer, Singapore
 
 Lumatic develops a navigation system for pedestrians, with proprietary routing algorithms at the core, and iOS navigation app [Lumatic City Maps](https://itunes.apple.com/app/id501673331) as the consumer-facing product. I am the sole iOS developer, and have built the app from scratch, working closely with our product manager and graphics designer. 
 In addition to building the iOS app, I have also worked on API development (Django), front-end on the developers' console (Javascript/jQuery) and helped coordinating an outsourced team building the Android version of the app.
+During my time at Lumatic, I've been developing a game called Bamboozle Blast. It's a free-to-play, blitz-style game with unique mechanics. It's almost ready for release.
 
 
 
