@@ -27,8 +27,8 @@ In addition to the iOS app, I also worked on the back-end - both the
 REST API and other server-side services. The stack was NodeJS +
 PostgreSQL, all in Coffeescript.
 
-### _iOS, Xcode, Objective-C, Swift, PostgreSQL, NodeJS, Coffeescript,
-    Javascript, chat_
+_iOS, Xcode, Objective-C, Swift, PostgreSQL, NodeJS, Coffeescript,
+Javascript, chat_
 
 
 
