@@ -1,9 +1,26 @@
 # Ivan Galic
 
+## Overview
+
+* Education: Master in Computing.
+* Software engineer since 2007, on a wide range of projects including
+  gaming, several years of mobile (iOS) development and back-end
+  development.
+* I'm proficient in several, and familiar with a range of programming
+  languages such as Objective-C, Swift, JavaScript, PHP, Python,
+  CoffeeScript, C++, Clojure.
+* I've built several games both for desktop and mobile
+  (the latest at [Nummu.com](http://nummu.com)).
+* Built mobile products from the ground up at several startups, working closely
+  with product managers, designers and clients.
+* Worked with and helped direct a remote team building our mobile app for
+  another platform.
+
+
 
 ## Work experience
 
-### March 2014 - now: [Piethis.com](http://piethis.com)
+### March 2014 - December 2014: [Piethis.com](http://piethis.com)
 **Role: Senior iOS developer, Back-end developer, Singapore**
 
 Pie is building a better chat for work. Originally started as a
@@ -12,9 +29,10 @@ several iterations it came to be a more hipchat- or slack-like chat
 app for teams. Focusing on simplicity and elegant UI, Pie aims to win
 users through great user experience.
 
-Things at Pie have ben changing rapidly, and I built the whole iOS
-app from scratch two times - first when it was still about sharing
-links and then after the pivot to a chat app.
+Things at Pie have been changing rapidly, and I built the whole iOS
+app from scratch two times: first when it was still about sharing
+links and then after the pivot to a chat app - with several design
+iterations in between.
 
 The biggest challenge was the asynchronous nature of the app, which
 differs a lot from a typical REST client that most mobile apps
@@ -31,28 +49,8 @@ _iOS, Xcode, Objective-C, Swift, PostgreSQL, NodeJS, Coffeescript,
 Javascript, chat_
 
 
-
-### October 2013 - March 2014: (through acquisition of Lumatic) [Nanigans](http://nanigans.com)
-**Role: PHP developer, Singapore**
-
-Nanigans is a company in ad-tech business, providing a SaaS product
-for optimizing your ad campaigns but automating bidding and a/b
-testing of ad units, predicting the lifetime value of the customer and
-maximizing ROI.
-
-I have worked on rebuilding a part of the product (ad analysis engine)
-to make it more scalable and fast (the system is dealing with billions
-of records which all need to be aggregated in different ways to
-extract and show the useful data). I worked on modeling the database
-structure and providing an interface between the web front-end and
-data-processing back-end.
-
- _PHP, MySQL_
-
-
-
-### May 2012 - October 2013: [Lumatic](http://lumatic.com)
-**Role: Senior iOS developer, Singapore**
+### May 2012 - March 2014: [Lumatic](http://lumatic.com) / acquired by [Nanigans](http://nanigans.com)
+**Role: Senior iOS developer, Singapore; PHP developer, Singapore**
 
 Lumatic was developing a navigation system for pedestrians, with
 proprietary routing algorithms at the core, and iOS navigation app
@@ -70,12 +68,31 @@ In addition to building the iOS app, I also worked on API development
 helped coordinating an out-sourced team building the Android version of
 the app.
 
-_iOS, Xcode, Objective-C, Photoshop, Git, REST client, Javascript,
-jQuery, Django, project management, navigation, location-based_
+In October, 2013, Nanigans acquired Lumatic. Nanigans is a company in 
+ad-tech business, providing a SaaS product for optimizing your ad
+campaigns but automating bidding and a/b testing of ad units, predicting
+the lifetime value of the customer and maximizing ROI.
+
+I worked on rebuilding a part of the product (ad analysis engine)
+to make it more scalable and fast (the system is dealing with billions
+of records which all need to be aggregated in different ways to
+extract and show the useful data). I worked on modeling the database
+structure and providing an interface between the web front-end and
+data-processing back-end.
+
+_iOS, Xcode, Objective-C, PHP, MySQL, Photoshop, Git, REST client,
+Javascript, jQuery, Django, project management, navigation, location-based_
 
 
 
-### May 2011 - March 2012: [ShoutEm](http://www.shoutem.com)
+### March 2009 - April 2012: Bitmapa (my own development shop, now closed)
+**Role: Acquiring clients, software development, working with other contractors.**
+
+In March 2009 I started my own agency / development shop, and ran it
+until I moved to Singapore. During this time, I worked on various projects
+and took on longer term contracts with several companies:
+
+####May 2011 - March 2012: [ShoutEm](http://www.shoutem.com)
 **Role: Lead iOS developer, Zagreb/Croatia**
 
 ShoutEm is one of the leading mobile application builders in the
@@ -93,11 +110,11 @@ and a couple of applications built on the platform:
 
 [This is 50](https://itunes.apple.com/us/app/thisis50/id540440346?mt=8)
 
-Note: I have worked on the native version of the app. They have since
+Note: I worked on the native version of the app. They have since
 switched to HTML5, although the apps I've listed above are still
 published using the native version (at the time of this writing).
 
-At ShoutEm, I worked as the main iOS developer working directly with
+At ShoutEm, I worked as the lead iOS developer working directly with
 the CTO, CEO and graphics designer. The main challenge was creating a
 very generic, modularized app that can be skinned and where certain
 parts can be turned on or off.
@@ -105,8 +122,7 @@ parts can be turned on or off.
  _iOS, Xcode, Photoshop, Subversion, REST client_
 
 
-
-### September 2010 - April 2012: [Gamepires](http://www.gamepires.com)
+####September 2010 - April 2012: [Gamepires](http://www.gamepires.com)
 **Role: Game programmer, Zagreb/Croatia**
 
 Gamepires is a young but very passionate game development team/studio,
@@ -120,8 +136,7 @@ original game design document, although it changed along the way).
  _C++, Visual Studio, Subversion, DirectX, game design, game development_
 
 
-
-### January 2010 - September 2010: [FiveMinutes Ltd.](http://www.fiveminutes.eu)
+####January 2010 - September 2010: [FiveMinutes Ltd.](http://www.fiveminutes.eu)
 **Role: iOS developer, Zagreb/Croatia**
 
 Five Minutes Ltd. is the "parent" company of ShoutEm, which was
@@ -137,11 +152,10 @@ tight schedules.
  _iOS, Xcode, CVS, Objective-C, remote work_
 
 
-
-### March 2009 - January 2010: NightIrion
+####March 2009 - January 2010: NightIrion
 **Role: Founder, Zagreb/Croatia**
 
-I started a sole proprietorship with the intent on doing freelance
+I started the agency mentioned above with the intent on doing freelance
 work which would fund my own game development efforts.  During this
 period, I worked for several, mostly US-based clients on smaller
 iPhone projects. Most notable was cooperation with Marroni Electronic
@@ -159,7 +173,7 @@ _iOS, Xcode, Objective-C, C++, Cocos2D, game development, remote work_
 
 
 
-### May 2008 - March 2009: [AVL-AST](https://www.avl.com/web/ast/home), [Croatian branch](https://www.avl.com/avl-ast-d.o.o)
+###May 2008 - March 2009: [AVL-AST](https://www.avl.com/web/ast/home), [Croatian branch](https://www.avl.com/avl-ast-d.o.o)
 **Role: Python/C++ developer, Zagreb/Croatia**
 
 It's a position I will remember the most for having worked with some
@@ -173,7 +187,7 @@ _Python, C++, Linux, CVS, GTK+_
 
 
 
-### June 2007 - May 2008: Soko Z.I.
+###June 2007 - May 2008: Soko Z.I.
 **Role: C++/MFC developer, Zagreb/Croatia**
 
 I worked on an unmanned aircraft control station. This was a student job
@@ -187,9 +201,9 @@ since closed.
 _C++, MFC, Windows, UAV, simulator_
 
 
-### Side projects
+###Side projects
 
-### Magic Match, [Nummu](http://nummu.com)
+###Magic Match, [Nummu](http://nummu.com)
 
 During my time at Lumatic, I developed a game called Magic
 Match - A Wizard Competition. It's a free-to-play, blitz-style game
@@ -209,7 +223,7 @@ _iOS, Xcode, Objective-C, Cocos2D, Photoshop, Git, game development, casual_
 
 
 
-### Sleek
+###Sleek
 
 In my spare time during 2008, I developed and released my first iPhone
 project,
@@ -223,7 +237,7 @@ _C++, iOS, Xcode, Objective-C, game development, game engine_
 
 
 
-### Earlier jobs
+###Earlier jobs
 
 Before Soko Z.I., I worked as a game developer for gambling machines
 in a small company for a few months.
@@ -393,9 +407,7 @@ science in Croatia), from the University of Zagreb, Croatia.
 
 My [LinkedIn profile](http://www.linkedin.com/profile/view?id=10153036&trk=tab_pro). 
 
-[Twitter account](https://twitter.com/ivangalic)
-
-Email: ivan (dot) galic (at) google's mail. 
+Email: ivan.galic@gmail.com
 
 You can also reach me at +65 9793 7639
 
