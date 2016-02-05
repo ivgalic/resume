@@ -20,6 +20,14 @@
 
 ## Work experience
 
+### February 2015 - now [Galibugs.com](https://galibugs.com)
+**Role: consulting for mobile and web; building iOS development curriculum, teaching and promoting for Galibugs, online**
+
+My wife Ivana and I started Galibugs in February 2015. We have worked on creating iOS app development courses, and mobile and web consulting. 
+Course development and promotion was something entirely new and exciting for me, and I've been enjoying it a lot. Having the knowledge and being able to organize and transfer it to someone else are very different things, so the work has been challenging. Seeing my students progress and achieve their own goals is also incredibly rewarding and makes the effort worthwhile.
+
+_iOS, Xcode, Swift, teaching, marketing, copywriting, audio and video production, web development_
+
 ### March 2014 - December 2014: [Piethis.com](http://piethis.com)
 **Role: Senior iOS developer, Back-end developer, Singapore**
 
@@ -393,8 +401,6 @@ meet new people, and just try to enjoy my life.
 I love simplicity and elegance, happy customers, great products and
 nature, especially water in all forms - ocean, sea, rivers, lakes,
 snow, rain...
-
-I hate mediocrity, all things ugly and cold weather :)
 
 
 ## Education
