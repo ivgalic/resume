@@ -3,16 +3,17 @@
 ## Overview
 
 * Education: Master in Computing.
+* Currently lead iOS developer at Tabcorp, helped build the team and bring
+  the Keno app to market.
 * Software engineer since 2007, on a wide range of projects including
   gaming, several years of mobile (iOS) development and back-end
   development.
+* Built products from the ground up at several startups and my own companies,
+  working closely with product managers, designers and clients.
 * I'm proficient in several, and familiar with a range of programming
   languages such as Objective-C, Swift, JavaScript, PHP, Python,
-  CoffeeScript, C++, Clojure.
+  CoffeeScript, C++.
 * I've built several games both for desktop and mobile
-  (the latest at [Nummu.com](http://nummu.com)).
-* Built mobile products from the ground up at several startups, working closely
-  with product managers, designers and clients.
 * Worked with and helped direct a remote team building our mobile app for
   another platform.
 
@@ -20,10 +21,17 @@
 
 ## Work experience
 
-### February 2015 - now [Galibugs.com](https://galibugs.com)
-**Role: consulting for mobile and web; building iOS development curriculum, teaching and promoting for Galibugs, online**
+### April 2016 - now [Tabcorp](https://tabcorp.com.au)
+**Role: technical team lead for Keno iOS app (contract)**
 
-My wife Ivana and I started Galibugs in February 2015. We have worked on creating iOS app development courses, and mobile and web consulting. 
+Helped hire and build the team, and bring the app to market. Worked with external testing agencies to get the app approved by the regulator, and internally with multiple stakeholders across business, product and design in an agile environment.
+
+_iOS, Swift, ReactiveSwift, ReactiveCocoa, Xcode, team lead, interviewing, agile, ci, testing automation, nodejs_
+
+### February 2015 - April 2016 [Galibugs.com](https://galibugs.com)
+**Role: producing content, marketing and teaching for Galibugs, online; consulting for mobile and web**
+
+My wife Ivana and I started Galibugs in February 2015. We have worked on creating iOS app development courses and promoting them, as well as mobile and web consulting. 
 Course development and promotion was something entirely new and exciting for me, and I've been enjoying it a lot. Having the knowledge and being able to organize and transfer it to someone else are very different things, so the work has been challenging. Seeing my students progress and achieve their own goals is also incredibly rewarding and makes the effort worthwhile.
 
 _iOS, Xcode, Swift, teaching, marketing, copywriting, audio and video production, web development_
